@@ -1,2 +1,3 @@
-# CourseraDataScience
-Week 6: Final assignment 
+# Python Project for Data Science
+IBM
+Igor Tellez
